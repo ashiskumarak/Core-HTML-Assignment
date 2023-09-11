@@ -1,0 +1,37 @@
+04_Q: Create an ordered list of HTMLtags.Each list item must include the tag name and some information about the tag.
+==========================================================
+Ans:
+<html>: This is the root element of HTML document
+        Inside this other HTML contains.
+        It has <head><body> as main components
+<head>: head contains meta informaion about HTML document.
+        it contains <title> ,<meta>,<link>, <style> tags
+<title>: Set the title of HTML document, which displayed   in the browser title bar.
+Mainly for SEO used.
+
+<meta> : gives the meta information about the document     such as character encoding etc.
+
+<link>: link with the external resources.
+        mainly used to link stylesheet
+<style>: this tag used to define style information for the document.
+<body>: this contains the information that shows on the browser like text, image, video etc.
+
+<h1><h2><h3><h4><h5><h6>:
+Headings are form h1 to h6 . where h1 has higher priority and h6 has less priority
+<p> : p tag represents paragraph. 
+<a>: anchor tag which links another web page with a hyper link "href" with a valid link.
+
+<img>: Embed images in the web page. need "src" attribute for the image URL
+<ul>: unorderd list having bullet points
+<ol>: ordered list having number points
+<li>: list items
+
+<div>: It is a container which defines a divion or a section of HTML document. we can set class and id with this.
+div is a block level element
+
+<span>: This is also a inline container, used to style a part of document.
+<table>: define table for showing data in tabular format.
+        it contains <tr>(table row),<th>(table heading),<td>(table data).
+<form>: created form and contains <input> filed for taking input and other tags like <textarea> <button> etc
+
+<button> : used to create button which can be clicked
